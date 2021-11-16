@@ -101,7 +101,7 @@ boring speech. Throughout your presentation you should speak loudly enough to be
 everybody in the room. You can lower your voice for emphasis: if you whisper a sentence, 
 your audience will listen attentively, but you should do it sparingly.
 
-### 14. Watch your posture
+### 14. Mind your posture
 - **IN PERSON**:
     - Don’t turn sideways or turn your back to the audience. If you need to look at a slide,
       look at the laptop or monitor screen in front of you.
@@ -115,7 +115,11 @@ your audience will listen attentively, but you should do it sparingly.
   naturally at your sides or use them in meaningful ways in your communication.
 - **ONLINE**:
     - Keep your camera on and in front of you--participants should not see you from an angle.
-    - The camera should ideally be at eye level and not too close (within arm's length is a good distance).
+    - The camera should ideally be at eye level and not too close (within arm's length is a good distance, so people
+  can see your gestures).
+    - Do relax but sit up straight. You can lean forward toward the camera to emphasize a message. If you have the proper
+  camera and monitor set-up, another great option is to stand up for your presentation. By standing you gain a wider range
+  of body language communication, and it also tells you're fully engaged in the presentation.
     - Your background, be it virtual or real, should be static and reasonably clean, so it's not a distraction.
 
 ### 15. Tech prep in advance

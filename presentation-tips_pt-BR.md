@@ -115,6 +115,10 @@ frase, os participantes ouvirão atentamente, mas use esse recurso *com moderaç
 - **ONLINE**: 
   - Mantenha a câmera ligada e a sua frente--os participantes não devem vê-lo de lado.
   - A câmera deve idealmente ficar a altura dos olhos e não muito próxima (a distância de um braço esticado é adequada).
+  - Esteja relaxado, mas se sente com as costas eretas. Você pode se inclinar para frente e se aproximar da câmera
+  para enfatizar uma mensagem. Se você possuir a configuração apropriada de câmera e monitor, outra excelente alternativa
+  é fazer a apresentação de pé. Estando de pé seu espectro de comunicação corporal aumenta. Além disso, você passa a mensagem
+  de que está inteiramente dedicado àquela apresentação e aos participantes. 
   - O background para a câmera, seja ele virtual ou real, deve ser estático e razoavelmente "clean", para que não se torne uma distração. 
 
 ### 15. Faça a preparação técnica
