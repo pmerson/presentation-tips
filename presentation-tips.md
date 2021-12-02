@@ -135,11 +135,14 @@ your audience will listen attentively, but you should do it sparingly.
     - Use a lamp or light source *behind* the camera so people can see your face clearly.
     - Use a headset or lapel mic instead of the laptop built-in microphone to get better sound quality. The built-in mic 
   tends to capture more background noise (ex.: cooling fan) and noise from outside the room.
-    - Become familiar with the meeting app to be used (zoom, Teams, google meet, etc.). In each of these apps, basic 
-  features and resources (waiting room, participant list, chat, screen sharing, breakout room, whiteboarding, recording) 
-  will work differently. As a presenter, it's your responsibility to know how to use the software even if there's a moderator to help you.
     - Use at least two monitors, one for the screen you will share and the other to visualize the participants and chat window. The
   second monitor allows you to keep an eye on chat messages, although for an interactive session with up to ~100 participants, 
   it's probably easier to ask them to open the mic when they want to ask a question. 
+    - Become familiar with the meeting app to be used (zoom, Teams, google meet, etc.). In each of these apps, basic
+      features and resources (waiting room, participant list, chat, screen sharing, breakout room, whiteboarding, recording)
+      will work differently. As a presenter, it's your responsibility to know how to use the software even if there's a moderator to help you.
+    - If you will reproduce audio and video files, make sure that the meeting app is configured to play the computer sound and
+  that you have enough **upload bandwidth** to stream the video. 
+  
 
 

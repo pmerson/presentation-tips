@@ -134,9 +134,11 @@ frase, os participantes ouvirão atentamente, mas use esse recurso *com moderaç
   - Use uma luminária ou fonte de luz atrás da câmera para que você fique bem visível. 
   - Use um headset (ou microfone de lapela ou de mesa) em vez do microfone do laptop--é garantia de um som com melhor qualidade. 
   O microfone embutido do laptop capta muito mais o barulho da ventoinha e sons externos do ambiente.  
+  - Use minimamente dois monitores, um para a tela que você vai compartilhar e o outro para visualizar os participantes e/ou
+    a janela de chat. Assim, você pode ficar de olha em mensagens no chat. (Porém, em uma apresentação interativa para um
+    grupo de até ~100 pessoas, é mais prático pedir que as pessoas liguem o microfone quando quiserem se manifestar.)
   - Familiarize-se com o software usado (zoom, Teams, google meet, etc.). Em cada software, os recursos básicos (sala de espera, 
   lista de participantes, chat, compartilhamento de tela, breakout room, whiteboarding, gravação) funcionam de maneira
-  diferente. É sua obrigação conhecer esses recursos, mesmo que haja um moderador para auxiliá-lo. 
-  - Use minimamente dois monitores, um para a tela que você vai compartilhar e o outro para visualizar os participantes e/ou
-  a janela de chat. Assim, você pode ficar de olha em mensagens no chat. (Porém, em uma apresentação interativa para um 
-  grupo de até ~100 pessoas, é mais prático pedir que as pessoas liguem o microfone quando quiserem se manifestar.)
+  diferente. É sua obrigação conhecer esses recursos, mesmo que haja um moderador para auxiliá-lo.
+  - Se for reproduzir arquivos de áudio e vídeo, teste que o software está configurado para transmitir o áudio e que a largura de banda **de upload** 
+  é suficiente para fazer o stream de vídeo. 
