@@ -23,6 +23,8 @@ quem assistiu a apresentação, o conteúdo deve fazer sentido mesmo sem a expli
 ### 3. Enriqueça os slides
 Use imagens, gráficos, tabelas, vídeos, callouts (bolhas de diálogo), animações, diagramas, quotes (citações) para 
 tornar sua apresentação mais interessante. Imagens melhoram a retenção e tornam a apresentação mais agradável.  😊
+
+Em apresentações ONLINE, lembre que vídeos e até mesmo animações de slide ficam meio truncados na transmissão por compartilhamento de tela. 
  
 ### 4. Crie conteúdo legível
 Parece óbvio, mas uma reclamação comum é a de texto não legível, especialmente o texto em diagramas. Caso use PowerPoint 

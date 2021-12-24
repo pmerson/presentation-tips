@@ -23,6 +23,8 @@ be shared for future reference, the content should make sense without the oral e
 Sensibly use pictures, graphs, tables, videos, callouts, animations, diagrams, and quotes to make your presentation 
 more interesting. Imagery will improve attendees' retention and enjoyment.  😊
 
+In live ONLINE presentations, remember that videos and even slide animations don't stream smoothly through screen sharing.
+
 ### 4. Create readable content
 The tip states the obvious, but a common complaint is that the text is not readable, especially text in diagrams. 
 If you use PowerPoint or a similar tool, here's a simple way to check readability: print your presentation in 
